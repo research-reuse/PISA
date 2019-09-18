@@ -3,9 +3,10 @@ channels:
 dependencies:
   - pandas=0.25
   - pycountry
+  - pip=8.1.2
   - statsmodels.formula.api=0.10.1
   - numpy=1.16
   - matplotlib
   - nbserverproxy
- - pip:
+  - pip:
     - wbdata==0.2.7
