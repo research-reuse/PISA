@@ -7,5 +7,5 @@ dependencies:
   - numpy=1.16
   - matplotlib
   - nbserverproxy
- pip:
-  - wbdata==0.2.7
+ - pip:
+    - wbdata==0.2.7
