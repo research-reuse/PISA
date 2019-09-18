@@ -1,0 +1,11 @@
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pip
+  - pip:
+    - wbdata==0.2.7
+    - statsmodels.formula.api 
+    - pandas
+    - matplotlib

@@ -1,6 +1,0 @@
-pandas
-pycountry
-numpy==1.11.*
-matplotlib
-wbdata==0.2.7
-statsmodels.formula.api
