@@ -1,7 +1,7 @@
 channels:
   - conda-forge
 dependencies:
-  - pandas=0.25
+  - pandas=0.19.2
   - pycountry
   - pip=8.1.2
   - numpy=1.16
