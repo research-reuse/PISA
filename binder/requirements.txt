@@ -1,8 +1,7 @@
-
-pandas=0.19.2
+pandas
 pycountry
-numpy=1.11.*
+numpy==1.11.*
 matplotlib
-python=2.7
-wbdata=0.2.7
+python==2.7
+wbdata==0.2.7
 statsmodels.formula.api
