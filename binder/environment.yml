@@ -6,7 +6,6 @@ dependencies:
   - pip=8.1.2
   - numpy=1.16
   - matplotlib
-  - nbserverproxy
   - python=2.7
   - pip:
     - wbdata==0.2.7
