@@ -9,4 +9,4 @@ dependencies:
   - python=2.7
   - pip:
     - wbdata==0.2.7
-    - statsmodels.formula.api==0.10.1
+    - statsmodels.formula.api
