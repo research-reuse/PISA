@@ -2,7 +2,7 @@ dependencies:
   - pandas=0.19.2
   - pycountry
   - pip=8.1.2
-  - numpy=1.13.1
+  - numpy=1.11.*
   - matplotlib
   - python=2.7
   - pip:
