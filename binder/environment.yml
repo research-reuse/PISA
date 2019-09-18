@@ -1,9 +1,8 @@
 dependencies:
   - pandas=0.25
   - pycountry
-  - wbdata
-  - datetime
-  - statsmodels.formula.api
+  - wbdata=0.2.7
+  - statsmodels.formula.api=0.10.1
   - numpy=1.16
   - matplotlib
   - nbserverproxy
