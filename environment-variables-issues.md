@@ -8,7 +8,7 @@ These have different formatting requirements. The tricky part is that it's bette
 
 ### environment.yml example
 
-'''
+```
 channels:
   - conda-forge
 dependencies:
@@ -24,11 +24,11 @@ dependencies:
     - statsmodels.formula.api==0.10
     - pandas>=0.19
     - matplotlib
-'''
+```
 
 ### requirements.txt example
 
-'''
+```
 numpy==1.11
 scipy==0.18
 patsy==0.4.0
@@ -37,4 +37,4 @@ wbdata==0.2.7
 pandas==0.19
 matplotlib
 pycountry
-'''
+```
