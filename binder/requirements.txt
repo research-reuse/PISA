@@ -6,3 +6,4 @@ wbdata==0.2.7
 pandas==0.19
 matplotlib
 pycountry
+statsmodels==0.5.0
