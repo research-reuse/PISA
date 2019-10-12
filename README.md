@@ -19,7 +19,8 @@ These have different formatting requirements. The tricky part is that it's bette
 At the time of file creation, running the following commands would be extremely helpful:
 ```
 IPython.sys_info() # requires importing the IPython module, prints detailed information about the runtime environment
-pip freeze > requirements.txt # prints a list of all dependencies, refer to https://pip.pypa.io/en/stable/reference/pip_freeze/ for specifics
+pip freeze > requirements.txt # prints a list of all dependencies, 
+                              # refer to https://pip.pypa.io/en/stable/reference/pip_freeze/ for specifics
 ```
 
 For this project we've used a `requirements.txt file`, which also needs an additional file called `runtime.txt` to specify the Python version. This project was built in Python2.7, which will not be supported as of Jan 2020. Below is a sample set of each file, showing the formatting differences between the two.
