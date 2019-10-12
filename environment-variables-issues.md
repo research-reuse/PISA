@@ -1,8 +1,6 @@
 
 
-## notes
-
-I fixed the statsmodels.api issue :)
+## Notes on Dependencies
 
 There are two ways to load python modules: through an environment.yml file (which loads through Anaconda) or through a requirements.txt file (which still somehow loads through conda)
 
