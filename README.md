@@ -8,7 +8,9 @@ This repository has been forked from <https://github.com/mklajnerok/PISA> to be 
 
 While we have tried to change as little as possible, there were things that needed to be fixed in order to have the project run in [MyBinder](https://mybinder.org/). A folder called [binder](https://github.com/research-reuse/PISA/tree/master/binder) was added to hold the files required for the MyBinder implementation. These are the configuration files that allow the [PISA Jupyter notebook file] (https://github.com/research-reuse/PISA/tree/master/pisa_basic/notebooks) to be packaged as a container file. The first file `requirements.txt` is a dependencies file, listing all of the Python modules that are required to run the code. The second file `runtime.txt` specifies which Python version was used to write the code.
 
-In addition, there is an error in the 10th code cell of the [pisa_project_part1.ipynb](https://github.com/research-reuse/PISA/tree/master/pisa_basic/notebooks). This error has something to do with [numpy](https://numpy.org/) and floats, but it's not something that we've been able to fix.
+~~In addition, there is an error in the 10th code cell of the [pisa_project_part1.ipynb](https://github.com/research-reuse/PISA/tree/master/pisa_basic/notebooks). This error has something to do with [numpy](https://numpy.org/) and floats, but it's not something that we've been able to fix.~~
+
+This error has been fixed.
 
 ### Notes on Dependencies
 
